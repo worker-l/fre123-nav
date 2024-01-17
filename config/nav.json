@@ -1,5 +1,50 @@
 [
 	{
+		"group_name": "Contra的自留地",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "服务",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "小雅",
+						"url": "http://route.contra.vip:5545/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
+						"description": "小雅的alist ，资源丰富的阿里网盘聚合站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Memo",
+						"url": "https://route.contra.vip:5233/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
+						"description": "Memo，记录你的记忆。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Transmission@nas1",
+						"url": "http://route.contra.vip:9091/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
+						"description": "Transmission is an open source, volunteer-based project",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Transmission@nas2",
+						"url": "http://route.contra.vip:15091/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
+						"description": "Transmission is an open source, volunteer-based project",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
 		"group_name": "新闻资讯",
 		"style": 1,
 		"style_des": "标准风格",
