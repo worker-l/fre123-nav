@@ -121,6 +121,14 @@
 						"description": "Stage1是一个中国台球游戏动漫等综合论坛，2001年12月24日建立",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "泰聊",
+						"url": "https://thailiao.com/",
+						"icon": "https://s1.imagehub.cc/images/2024/01/19/eaeca1de23f1d056ca4a487e9bad62ab.png",
+						"description": "泰聊，太爱聊。关于泰国的一切都能聊~（国内左派聚集地）",
+						"suffix": true,
+						"is_show": true						
 					}
 				]
 			}
