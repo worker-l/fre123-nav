@@ -85,6 +85,44 @@
 						"is_show": true
 					}
 				]
+			},
+			{
+				"tab_name": "论坛",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "4d4y",
+						"url": "https://www.4d4y.com/",
+						"icon": "https://s1.imagehub.cc/images/2024/01/19/0678afc4f33e2d81eaa43a26c2f88428.png",
+						"description": "HIPDA! 来自D版带着爱。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "V2EX",
+						"url": "https://www.4d4y.com/",
+						"icon": "https://s1.imagehub.cc/images/2024/01/19/571e1389fb5fc9fd1f91d469be7c12f2.png",
+						"description": "way to explore-由设计师、程序员及有创意的人参与的社区",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "TGFC",
+						"url": "https://bbs.tgfcer.com/",
+						"icon": "https://s1.imagehub.cc/images/2024/01/19/a069cb78f4cd17cb18fa8ea32833a5ef.png",
+						"description": "电玩俱乐部-国内老牌游戏论坛",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Stage1",
+						"url": "https://www.saraba1st.com/2b/forum.php",
+						"icon": "https://s1.imagehub.cc/images/2024/01/19/ac5bad70228da66e9a05e1e0ae108dd9.png",
+						"description": "Stage1是一个中国台球游戏动漫等综合论坛，2001年12月24日建立",
+						"suffix": true,
+						"is_show": true
+					}
+				]
 			}
 		]
 	},
