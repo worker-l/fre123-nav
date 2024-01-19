@@ -15,16 +15,16 @@
 			"is_show": true,
 			"list": [
 				{
-					"name": "百度",
-					"url": "https://www.baidu.com/s?wd=",
-					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
-					"placeholder": "百度一下，你就知道"
-				},
-				{
 					"name": "谷歌",
 					"url": "https://www.google.com/search?q=",
 					"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
 					"placeholder": "请输入您要搜索的内容..."
+				},
+				{
+					"name": "百度",
+					"url": "https://www.baidu.com/s?wd=",
+					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
+					"placeholder": "百度一下，你就知道"
 				},
 				{
 					"name": "必应",
