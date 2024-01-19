@@ -56,7 +56,7 @@
 					},
 					{
 						"title": "IT-Tools",
-						"url": "http://it-tools.taojinhudong.com/",
+						"url": "https://it-tools.tech/",
 						"icon": "https://raw.githubusercontent.com/CorentinTh/it-tools/main/public/android-chrome-192x192.png",
 						"description": "Collection of handy online tools for developers, with great UX.",
 						"suffix": true,
