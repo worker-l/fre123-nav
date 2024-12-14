@@ -39,7 +39,31 @@
 						"description": "Transmission is an open source, volunteer-based project",
 						"suffix": true,
 						"is_show": true
-					}
+					},
+					{
+						"title": "gitea@nas1",
+						"url": "https://route.contra.vip:10081/",
+						"icon": "https://s1.imagehub.cc/images/2024/12/14/1e50fdb9a7bf2ce6db212aac7c7d78b0.png",
+						"description": "Git with a cup of tea",
+						"suffix": true,
+						"is_show": true					
+					},
+					{
+						"title": "gitea@nas2",
+						"url": "https://route.contra.vip:15300/",
+						"icon": "https://s1.imagehub.cc/images/2024/12/14/1e50fdb9a7bf2ce6db212aac7c7d78b0.png",
+						"description": "Git with a cup of tea",
+						"suffix": true,
+						"is_show": true					
+					},
+					{
+						"title": "seafile",
+						"url": "http://route.contra.vip:8000/",
+						"icon": "https://s1.imagehub.cc/images/2024/12/14/19aeae1ba953e18c50aeb07755ffde20.png",
+						"description": "Seafile is an open source, self-hosted file sync and share solution with high performance and reliability.",
+						"suffix": true,
+						"is_show": true					
+					}					
 				]
 			},
 			{
