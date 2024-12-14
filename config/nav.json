@@ -58,7 +58,7 @@
 					},
 					{
 						"title": "seafile",
-						"url": "http://route.contra.vip:8000/",
+						"url": "https://route.contra.vip:8011/",
 						"icon": "https://s1.imagehub.cc/images/2024/12/14/19aeae1ba953e18c50aeb07755ffde20.png",
 						"description": "Seafile is an open source, self-hosted file sync and share solution with high performance and reliability.",
 						"suffix": true,
