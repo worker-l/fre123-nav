@@ -5,6 +5,36 @@
 		"style_des": "标准风格",
 		"tab_list": [
 			{
+				"tab_name": "聚合工具",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "摸摸鱼",
+						"url": "https://momoyu.cc/",
+						"icon": "https://momoyu.cc/img/logo-1.4a8f7d71.png",
+						"description": "可自定义订阅的新闻聚合平台",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "IT-Tools",
+						"url": "https://it-tools.tech/",
+						"icon": "https://raw.githubusercontent.com/CorentinTh/it-tools/main/public/android-chrome-192x192.png",
+						"description": "Collection of handy online tools for developers, with great UX.",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "TTG",
+						"url": "https://totheglory.im/index.php",
+						"icon": "https://s1.imagehub.cc/images/2024/12/15/94a861d73a0c06045cd63fa489bc6c10.webp",
+						"description": "totheglory.",
+						"suffix": true,
+						"is_show": true
+					},
+				]
+			},
+			{
 				"tab_name": "我的服务",
 				"upper_right_corner": {},
 				"details": [
@@ -64,28 +94,6 @@
 						"suffix": true,
 						"is_show": true					
 					}					
-				]
-			},
-			{
-				"tab_name": "聚合工具",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "摸摸鱼",
-						"url": "https://momoyu.cc/",
-						"icon": "https://momoyu.cc/img/logo-1.4a8f7d71.png",
-						"description": "可自定义订阅的新闻聚合平台",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "IT-Tools",
-						"url": "https://it-tools.tech/",
-						"icon": "https://raw.githubusercontent.com/CorentinTh/it-tools/main/public/android-chrome-192x192.png",
-						"description": "Collection of handy online tools for developers, with great UX.",
-						"suffix": true,
-						"is_show": true
-					}
 				]
 			},
 			{
