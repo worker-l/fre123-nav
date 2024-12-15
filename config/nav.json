@@ -31,7 +31,7 @@
 						"description": "totheglory.",
 						"suffix": true,
 						"is_show": true
-					},
+					}
 				]
 			},
 			{
@@ -95,7 +95,7 @@
 						"is_show": true					
 					}					
 				]
-			},
+			},			
 			{
 				"tab_name": "知识库",
 				"upper_right_corner": {},
