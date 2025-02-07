@@ -284,7 +284,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
 						"description": "弹幕视频，二次元文化",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "36氪",
@@ -293,7 +293,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27b9ecfcb.png",
 						"description": "创业与科技新闻，洞察商业价值",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "爱范儿",
@@ -302,7 +302,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f28335cfd0.png",
 						"description": "科技与数码生活，热爱创新",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "IT之家",
@@ -311,7 +311,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2746dca0f.png",
 						"description": "科技新闻与评测专家",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "澎湃新闻",
@@ -320,7 +320,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
 						"description": "独立、深度、观点",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "虎嗅资讯",
@@ -329,7 +329,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f277d17855.png",
 						"description": "商业观察与创新洞察",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					}
 				]
 			},
@@ -446,7 +446,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
 						"description": "人工智能科技媒体，探索智能世界",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "量子位",
@@ -455,7 +455,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
 						"description": "科技资讯平台，前沿科技动态解读",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "湾区日报",
@@ -464,7 +464,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
 						"description": "科技创新资讯，关注湾区科技动态",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "小众软件",
@@ -473,7 +473,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
 						"description": "探索独特应用，发现小众精品软件",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					}
 				]
 			},
@@ -571,7 +571,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2385d1ec1.jpeg",
 						"description": "破茧日报，老郭种树",
 						"suffix": true,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "老司机 iOS 周报",
@@ -579,7 +579,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f228744f01.png",
 						"description": "对于 iOS 开发者有价值的信息",
 						"suffix": true,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "Python 潮流周刊",
@@ -587,7 +587,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
 						"description": "Python技术周刊",
 						"suffix": true,
-						"is_show": false
+						"is_show": true
 					}
 				]
 			}
