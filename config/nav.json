@@ -161,6 +161,14 @@
 						"description": "泰聊，太爱聊。关于泰国的一切都能聊~（国内左派聚集地）",
 						"suffix": true,
 						"is_show": true						
+					},
+					{
+						"title": "集思录",
+						"url": "https://www.jisilu.cn/",
+						"icon": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
+						"description": "一个以数据为本的投资社区，提供新股、可转债、债券、ETF、封闭式基金等数据服务。投资社区思维活跃，交流投资思路、探讨投资数据分析方式。",
+						"suffix": true,
+						"is_show": true						
 					}
 				]
 			},
