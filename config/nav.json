@@ -163,7 +163,53 @@
 						"is_show": true						
 					}
 				]
-			}
+			},
+			{
+				"tab_name": "Telegram资源",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "TGNAV",
+						"url": "https://tgnav.github.io/",
+						"icon": "https://tgnav.github.io/assets/images/logo.png",
+						"description": "中文 Telegram 优质频道和群组导航站。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "电报值得看",
+						"url": "https://dbzdk.com/",
+						"icon": "https://dbzdk.com/static/images/logo-128x128.png",
+						"description": "中文 Telegram 优质频道和群组导航站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "电报老司机",
+						"url": "https://tgdriver.com/",
+						"icon": "https://tgdriver.com/wp-content/uploads/2023/05/tg-driver.webp",
+						"description": "中文 Telegram 优质频道和群组导航站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "TGSO.PRO",
+						"url": "https://tgso.pro/",
+						"icon": "https://tgnav.github.io/assets/images/logo.png",
+						"description": "Telegram 搜索引擎",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "TelSearch",
+						"url": "https://telsearch.long2ice.io/",
+						"icon": "https://tgnav.github.io/assets/images/logo.png",
+						"description": "Telegram 搜索引擎",
+						"suffix": true,
+						"is_show": true						
+					}
+				]
+			}			
 		]
 	},
 	{
