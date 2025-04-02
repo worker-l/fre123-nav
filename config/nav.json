@@ -5,7 +5,7 @@
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "聚合工具",
+				"tab_name": "新闻聚合及工具",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -29,6 +29,22 @@
 						"url": "https://totheglory.im/index.php",
 						"icon": "https://s1.imagehub.cc/images/2024/12/15/94a861d73a0c06045cd63fa489bc6c10.webp",
 						"description": "totheglory.",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "日经中文网",
+						"url": "https://cn.nikkei.com/",
+						"icon": "https://cn.nikkei.com/templates/nikkeisite/common/images/newlogo.png",
+						"description": "日本经济新闻中文版",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "观察者网",
+						"url": "https://www.guancha.cn",
+						"icon": "https://www.guancha.cn/images/mian-logo.png",
+						"description": "致力于荟萃中外思想者精华,鼓励青年学人探索,建中西文化交流平台,为崛起中的精英提供决策参考",
 						"suffix": true,
 						"is_show": true
 					}
@@ -169,6 +185,14 @@
 						"description": "一个以数据为本的投资社区，提供新股、可转债、债券、ETF、封闭式基金等数据服务。投资社区思维活跃，交流投资思路、探讨投资数据分析方式。",
 						"suffix": true,
 						"is_show": true						
+					},
+					{
+						"title": "恩山无线",
+						"url": "https://www.right.com.cn/forum/forum.php",
+						"icon": "https://www.right.com.cn/friendship.gif",
+						"description": "无线路由器爱好者的乐园",
+						"suffix": true,
+						"is_show": true		
 					}
 				]
 			},
