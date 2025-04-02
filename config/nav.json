@@ -5,13 +5,13 @@
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "新闻聚合及工具",
+				"tab_name": "聚合工具",
 				"upper_right_corner": {},
 				"details": [
 					{
 						"title": "摸摸鱼",
 						"url": "https://momoyu.cc/",
-						"icon": "https://momoyu.cc/img/logo-1.4a8f7d71.png",
+						"icon": "https://momoyu.cc/assets/logo-1-DXR4uO3F.png",
 						"description": "可自定义订阅的新闻聚合平台",
 						"suffix": true,
 						"is_show": true
@@ -113,7 +113,7 @@
 				]
 			},			
 			{
-				"tab_name": "知识库",
+				"tab_name": "知识书籍",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -135,7 +135,7 @@
 				]
 			},
 			{
-				"tab_name": "论坛",
+				"tab_name": "社区论坛",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -197,7 +197,7 @@
 				]
 			},
 			{
-				"tab_name": "Telegram资源",
+				"tab_name": "电报资源",
 				"upper_right_corner": {},
 				"details": [
 					{
