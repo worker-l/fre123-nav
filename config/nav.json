@@ -193,6 +193,14 @@
 						"description": "无线路由器爱好者的乐园",
 						"suffix": true,
 						"is_show": true		
+					},
+					{
+						"title": "LINUX DO",
+						"url": "https://linux.do/",
+						"icon": "https://cdn.ldstatic.com/original/3X/a/8/a8168bb80c93075aad7aa1f598eee063adef1cb0.png",
+						"description": "真诚、友善、团结、专业，共建你我引以为荣之社区。",
+						"suffix": true,
+						"is_show": true	
 					}
 				]
 			},
