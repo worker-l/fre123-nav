@@ -72,7 +72,7 @@
 					},
 					{
 						"title": "Memo",
-						"url": "https://route.contra.vip:5233/",
+						"url": "https://memos.contra.vip:5001/",
 						"icon": "https://s1.imagehub.cc/images/2024/01/19/157721ff6f76ed0fa8acd1ed4291c6cf.png",
 						"description": "Memo，记录你的记忆。",
 						"suffix": true,
@@ -80,7 +80,7 @@
 					},
 					{
 						"title": "Transmission@nas1",
-						"url": "https://route.contra.vip:8091/",
+						"url": "https://tm.contra.vip:5001/",
 						"icon": "https://s1.imagehub.cc/images/2024/01/19/665f13dc47f162ac8d178a9132306343.png",
 						"description": "Transmission is an open source, volunteer-based project",
 						"suffix": true,
@@ -96,7 +96,7 @@
 					},
 					{
 						"title": "gitea@nas1",
-						"url": "https://route.contra.vip:10081/",
+						"url": "https://git.contra.vip:5001/",
 						"icon": "https://s1.imagehub.cc/images/2024/12/14/1e50fdb9a7bf2ce6db212aac7c7d78b0.png",
 						"description": "Git with a cup of tea",
 						"suffix": true,
@@ -112,7 +112,7 @@
 					},
 					{
 						"title": "seafile",
-						"url": "https://route.contra.vip:8011/",
+						"url": "https://seafile.contra.vip:5001/",
 						"icon": "https://s1.imagehub.cc/images/2024/12/14/19aeae1ba953e18c50aeb07755ffde20.png",
 						"description": "Seafile is an open source, self-hosted file sync and share solution with high performance and reliability.",
 						"suffix": true,
@@ -120,7 +120,7 @@
 					},
 					{
 						"title": "DXP4800 Plus",
-						"url": "https://dxp4800plus-d3a-bs6i.cn1.ug.link/",
+						"url": "https://nas.contra.vip:16666",
 						"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEzv7/Xv8Pbg4ebJys64uL6mpqpHR0kWFhcQEBCVlZrX193y8vgrKyxiYWQgICDu7/SurrKJiY7k5eqBgYbY2t9ycnW+vsOdnaIAAgW7u7+ioqeTwY2dnaKenqOjo6iNjZGnP2nyAAAAIXRSTlMARKDJ/gv///////0a////H///ef+x/9P////Q/6NyK9GTusFUAAABbklEQVR4AXWNh3bDIAwAyQJJLqi4hAoy//8rK7zaxO55neR7tmns9ofjisN+Z0ZOB+tgDTrqPkyjc+A3AX9sxSGw/5fOmM+I3jMwvMOs+35nvvQDnGxc02vhzuasXe42Ifbwbc7gQbpcVriuoodqvocAGVFHRG7CTcqxBXEI6Aiu1lio1rDIa4C5Uleq1BQm6Ut9DaLTfbApjCIaxCXoNbDu2PYpNIl/A9SgYqhW97amRcbA/ga1FltrniVp9RLEqPuoQROJr0HSwMZYxMY8y5+AIUUMutO9zYOQSrGir8RcoAUQRGwhkbzIEqAGFgKRFCIKs+QihIwawBA4ESm9SFhkDGgIsgAg6ggwSTP6GziEAYQFL/0YoAYkSemna4TmAFpAogfRla56qg7jGNw8g6OJ69DMUwDGi7k7ZnRhA4fM/mZOSZ+AGwAz5ocxN6e2DfiLUS4ONxNAR2bglhzD+gcu38zE6X57rrjdH0b5AUBXOHOiPytSAAAAAElFTkSuQmCC",
 						"description": "绿联NAS私有云.",
 						"suffix": true,
@@ -128,7 +128,7 @@
 					},
 					{
 						"title": "qBittorrent@dxp4800plus-d3a-bs6i",
-						"url": "https://app-8091-dxp4800plus-d3a-bs6i.cn1.ugdocker.link/",
+						"url": "https://qb.contra.vip:16666",
 						"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Wbub6RdloyYDZFcLU5XC1QY2gNNUFNzQqA&s",
 						"description": "qBittorrent is an open-source alternative to µTorrent",
 						"suffix": true,
