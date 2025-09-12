@@ -141,6 +141,14 @@
 						"description": "qBittorrent is an open-source alternative to µTorrent",
 						"suffix": true,
 						"is_show": true					
+					},
+					{
+						"title": "yt-dlp web",
+						"url": "https://ytd.contra.vip:16666",
+						"icon": "https://i0.wp.com/portable.info.pl/wp-content/uploads/2023/03/yt-dlp-gui_icon.jpg",
+						"description": "A feature-rich command-line audio/video downloader",
+						"suffix": true,
+						"is_show": true		
 					}
 				]
 			},			
