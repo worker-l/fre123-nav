@@ -72,7 +72,7 @@
 					},
 					{
 						"title": "Memo",
-						"url": "https://memos.contra.vip:5001/",
+						"url": "https://memos.contra.vip:16666/",
 						"icon": "https://s1.imagehub.cc/images/2024/01/19/157721ff6f76ed0fa8acd1ed4291c6cf.png",
 						"description": "Memo，记录你的记忆。",
 						"suffix": true,
@@ -96,7 +96,7 @@
 					},
 					{
 						"title": "gitea@nas1",
-						"url": "https://git.contra.vip:5001/",
+						"url": "https://git.contra.vip:16666/",
 						"icon": "https://s1.imagehub.cc/images/2024/12/14/1e50fdb9a7bf2ce6db212aac7c7d78b0.png",
 						"description": "Git with a cup of tea",
 						"suffix": true,
@@ -112,7 +112,7 @@
 					},
 					{
 						"title": "seafile",
-						"url": "https://seafile.contra.vip:5001/",
+						"url": "https://seafile.contra.vip:16666/",
 						"icon": "https://s1.imagehub.cc/images/2024/12/14/19aeae1ba953e18c50aeb07755ffde20.png",
 						"description": "Seafile is an open source, self-hosted file sync and share solution with high performance and reliability.",
 						"suffix": true,
