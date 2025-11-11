@@ -63,10 +63,10 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "小雅",
+						"title": "AList",
 						"url": "https://alist.contra.vip:16666/",
-						"icon": "https://s1.imagehub.cc/images/2024/01/19/b92d4224e685765994b96ce77b7dbaaf.png",
-						"description": "小雅的alist ，资源丰富的阿里网盘聚合站",
+						"icon": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
+						"description": "AList一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs",
 						"suffix": true,
 						"is_show": true
 					},
