@@ -179,6 +179,14 @@
 						"description": "人类历史上最大的完全开放的图书馆。不仅是 Sci-Hub, LibGen, Z-Lib 的镜像。25,530,302 本图书、99,425,822 篇论文——永久保存",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "网盘搜索",
+						"url": "https://panso.pro/",
+						"icon": "https://panso.pro/static/logo.svg",
+						"description": "收录超千万的网盘资源搜索引擎，找网盘资源就上盘搜pro",
+						"suffix": true,
+						"is_show": true						
 					}
 				]
 			},
