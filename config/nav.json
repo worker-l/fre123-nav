@@ -161,7 +161,7 @@
 				]
 			},			
 			{
-				"tab_name": "知识书籍",
+				"tab_name": "知识书籍和网盘磁力",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -187,6 +187,23 @@
 						"description": "收录超千万的网盘资源搜索引擎，找网盘资源就上盘搜pro",
 						"suffix": true,
 						"is_show": true						
+					},
+					{
+						"title": "TorrentKitty",
+						"url": "https://www.torrentkitty.cam/",
+						"icon": "https://www.torrentkitty.cam/images/ui/header-logo.png",
+						"description": "磁力链搜索",
+						"suffix": true,
+						"is_show": true	
+						
+					},
+					{
+						"title": "吴签磁力",
+						"url": "https://wuqianso.top/",
+						"icon": "https://prod.b5.thatcdn.com/img/wuqian/logo.png",
+						"description": "永 久 地 址： wuqiandizhi.net  下载地址发布页",
+						"suffix": true,
+						"is_show": true	
 					}
 				]
 			},
